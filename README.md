@@ -1,5 +1,10 @@
-# Neha_NodejsTask
+# NodeJS + MySQL
 
+
+  *important note--> This project is based on mysql password [username:root , password: root] 
+  if there will be other password mysql server have kindly change in db.config file in Neha_NoodeJS application
+  
+  
 1.libraries/frameworks
   1.1 Express
   1.2 body-parser 
@@ -48,12 +53,15 @@
         url: http://localhost:3000/api/psychiatrists/patients
         
   3. How to run tests and deploy the project
+ 
      3.1 clone the repo https://github.com/NehaBatra09/Neha_NodejsTask.git
      3.2 open project with visual code
-     3.3 npm install
-     3.4 node .\bin\www
+     3.3  *important note--> This project is based on mysql password [username:root , password: root] 
+           if there will be other password mysql server have kindly change in db.config file in Neha_NoodeJS applicatio
+     3.4 npm install
+     3.5 node .\bin\www
      3.5 open the postman
-     3.6 run the endpoints
+     3.7.6 run the endpoints
      
   *important note:--> In it there is database foler and DBSchema file
            
