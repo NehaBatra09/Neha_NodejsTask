@@ -55,7 +55,7 @@
      3.5 open the postman
      3.6 run the endpoints
      
-        
+  *important note:--> In it there is database foler and DBSchema file
            
            
           
